@@ -12,6 +12,7 @@ Nike Website is a web application built with Vite.js using TypeScript & React. T
 Nike web application is built using the following technologies:
 
 javascript:JavaScript is a versatile programming language that runs in the browser and on servers (Node.js).
+
 Vite.js: Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 React: React is an open-source, front end, JavaScript library for building user interfaces or UI components.
 Tailwind CSS: Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
